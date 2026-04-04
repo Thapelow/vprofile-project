@@ -7,7 +7,7 @@
 set -e
 
 # Variables
-LOKI_VERSION="3.5.7"
+LOKI_VERSION="3.7.1"
 DOWNLOAD_URL="https://github.com/grafana/loki/releases/download/v${LOKI_VERSION}/loki-linux-amd64.zip"
 ZIP_FILE="loki-linux-amd64.zip"
 BINARY="loki-linux-amd64"
